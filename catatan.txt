@@ -1,0 +1,14 @@
+cara ubah data-feather (icon) menjadi svg -> karena pake alpine kayanya bentrok
+
+1. ke situs data-feather
+2. get started
+3. ke svg sprite
+4. klik feather-sprite.svg (yang warna biru)
+5. klik kana lalu save as
+6. masukan ke folder project nya
+
+di javascript ada number format
+
+kita pake alpine karen kita tidak perlu mikirin mengenai state dan dom nya
+
+di midtrans kita bisa memunculkan tampilan ada 2 yaitu snap pop up dan snap embeded (jadi masuk ke tampilan web nya)
